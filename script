@@ -1,0 +1,9 @@
+mkdir raw && mkdir raw/images
+cp ~/SourceCode/git-readme/github_user_logo.jpeg $(pwd)/raw/images/
+touch .gitignore
+git init
+git add .
+git commit -m "First commit!"
+git branch -M main
+git remote add origin https://github.com/adearya/$(basename "$(pwd)").git
+git push -u origin main
