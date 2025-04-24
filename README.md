@@ -45,8 +45,8 @@
 </p>
 
 ### Built With
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) <br />
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) <br />
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) <br />
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge) <br />
 <!-- add_built_with -->
 
 
@@ -60,8 +60,8 @@
 <p>Before getting started, ensure that your system meets all the necessary requirements to run this project smoothly. Below is a list of prerequisites that need to be installed.</p>
 
 <ul>
-	<li>git >= 2.47.1</li>
-	<li>bash >= 5.2.37</li>
+    <li>git >= 2.47.1</li>
+    <li>bash >= 5.2.37</li>
     <!-- add_prerequisites -->
 </ul>
 
